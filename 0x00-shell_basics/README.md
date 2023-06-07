@@ -11,3 +11,4 @@
 10-back: take the user back to the previous dir
 11-lists: display the files in the current dir, parent dir and /boot
 12-file_type: type of a file
+13-symbolic_link: create a symbolic link
