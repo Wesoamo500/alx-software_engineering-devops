@@ -9,3 +9,4 @@
 8-deletefile: delete a file
 9-firstdirdeletion: delete a directory
 10-back: take the user back to the previous dir
+11-lists: display the files in the current dir, parent dir and /boot
