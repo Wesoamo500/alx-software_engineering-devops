@@ -6,4 +6,5 @@
 5-listfilesdigitonly: display the files with user id,hidden files, long format
 6-firstdirectory: create a directory in the /tmp
 7-movethatfile: move the betty file from /tmp to /tmp/my_first_directory
-8-deletefile: delete a file 
+8-deletefile: delete a file
+9-firstdirdeletion: delete a directory
