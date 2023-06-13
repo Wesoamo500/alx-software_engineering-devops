@@ -10,4 +10,5 @@
 9-divide_and_rule: divivde two global variable
 10-love_exponent_breath: script to perform exponentiation
 11-binary_to_decimal: convert from binary to decimal
+12-combination: print the combination a-z withou oo
 
