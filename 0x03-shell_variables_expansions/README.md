@@ -8,4 +8,5 @@
 7-create_global_variable: create global variable
 8-true_knowledge: add 128 to variable TRUEKNOWLEDGE
 9-divide_and_rule: divivde two global variable
+10-love_exponent_breath: script to perform exponentiation
 
