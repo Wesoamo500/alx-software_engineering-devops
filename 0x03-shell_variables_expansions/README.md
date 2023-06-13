@@ -3,4 +3,5 @@
 2-path: add /action to the PATH variable
 3-paths: count the number of paths in $PATH
 4-global_variables: list global variables
+5local_variables: list global, local and function variables
 
