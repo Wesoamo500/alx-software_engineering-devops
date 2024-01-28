@@ -1,0 +1,1 @@
+ATTACK is the BEST DEFENCE
